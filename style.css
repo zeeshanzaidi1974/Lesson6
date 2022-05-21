@@ -8,7 +8,7 @@
     position: relative;
     display: flex;
     flex-direction: column;
-    justify-content: left;
+    justify-content: center;
     align-items: start;
     flex-wrap: wrap;
     
@@ -80,7 +80,7 @@
     margin: 10px;
     
     justify-content: left;
-    align-items: start;
+    align-items: centet;
     flex-basis: 180px;
 }
 
