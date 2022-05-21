@@ -78,7 +78,7 @@
     min-width: 320px;
     min-height: 40px;
     margin: 10px;
-    display: flex;
+    
     justify-content: left;
     align-items: stretch;
     flex-basis: 180px;
