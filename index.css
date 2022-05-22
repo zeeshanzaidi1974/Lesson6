@@ -249,26 +249,9 @@ a:visited{
 .container_footer li {
     list-style-type: none;
 }
-.footer-li:hover {
-    transform: scale(1.2);
-}
-.footer-column-left {
-    transform:
-        translateX(200px);
-}
-.footer-column-middle {
-    transform:
-        translateX(200px);
-}
-.footer-column-right {
-    transform:
-        translateX(200px);
-}
+
 /* footer form */
-.form_footer{
-    transform: 
-        translateX(250px);
-}
+
 .label_form {
     font-family: 'Cinzel', serif;
     font-size: 20px;
@@ -286,25 +269,5 @@ a:visited{
 
 
 
-@media screen and (max-width: 950px){
-    .footer-column-left {
-        transform:
-            translateX(100px);
-    }
-    .footer-column-middle {
-        transform:
-            translateX(100px);
-    }
-    .footer-column-right {
-        transform:
-            translateX(100px);
-    }
-    .form_footer{
-        transform: 
-            translateX(150px);
-    }
-}
-@media screen and (max-width: 850px){
-}
 
 
