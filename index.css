@@ -30,6 +30,20 @@
     letter-spacing: 0.02em;
     color: #1B0A42;
 }
+.card-title {
+    max-width: 200px;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 5px;
+    font-family: 'Ramaraja', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+}
 
 
 
@@ -49,6 +63,38 @@
     letter-spacing: 0.02em;
     color: #9A9A9A;
 }
+
+.card-info {
+    max-width: 200px;
+    
+    margin-top: 10px;
+    margin-left: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+}
+card-info1 {
+    max-width: 200px;
+    
+    margin-top: 10px;
+    margin-left: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 32px;
+    /* or 160% */
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+}
+
+
+
 .main-title1 {
     max-width: 495px;
     width: 100%;
