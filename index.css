@@ -168,6 +168,16 @@
     display: flex;
     position: relative;
 }
+.card1 {
+    max-width: 300px;
+    min-height: 200px;
+    background-color: white;
+    
+    margin: 5px;
+    padding: 5px;
+    display: flex;
+    position: relative;
+}
 
 
 
