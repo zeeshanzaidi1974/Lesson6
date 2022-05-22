@@ -240,11 +240,11 @@ footer {
     width: 95%;
 } 
 a {
-    color: #FFFFFF;
+    color: black;
     text-decoration: none;
 }
 a:visited{
-    color: #FFFFFF;  
+    color: black;  
 }
 .container_footer li {
     list-style-type: none;
@@ -272,7 +272,7 @@ a:visited{
 .label_form {
     font-family: 'Cinzel', serif;
     font-size: 20px;
-    color: #FFFFFF;
+    color: black;
 }
 
 
