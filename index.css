@@ -149,3 +149,26 @@
 .section {
     display: inline-block;
 }
+
+container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px; 
+
+}
+
+.card {
+    max-width: 200px;
+    min-height: 300px;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    /*display: flex;
+    position: relative;*/
+}
+
+
+
+
