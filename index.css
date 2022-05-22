@@ -150,7 +150,7 @@
     display: inline-block;
 }
 
-container {
+.container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -165,8 +165,8 @@ container {
     border-radius: 10px;
     margin: 20px;
     padding: 10px;
-    /*display: flex;
-    position: relative;*/
+    display: flex;
+    position: relative;
 }
 
 
