@@ -154,13 +154,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 40px 20px; 
+    padding: 20px 5px; 
 
 }
 
 .card {
     max-width: 200px;
-    min-height: 300px;
+    min-height: 200px;
     background-color: white;
     
     margin: 20px;
