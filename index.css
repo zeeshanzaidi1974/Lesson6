@@ -31,6 +31,10 @@
     color: #1B0A42;
 }
 
+
+
+
+
 .main-info {
     max-width: 583px;
     width: 100%;
@@ -45,6 +49,22 @@
     letter-spacing: 0.02em;
     color: #9A9A9A;
 }
+.main-title1 {
+    max-width: 495px;
+    width: 100%;
+    margin-top: 20px;
+    margin-left: 250px;
+    font-family: 'Ramaraja', serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 50px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+}
+
+
 
 .main-btn {
     width: 152px;
@@ -64,6 +84,26 @@
     color: #FFFFFF;
     border: none;
 }
+.main-btn1 {
+    width: 152px;
+    height: 64px;
+    margin-top: 50px;
+    margin-left: 275px;
+    background-color: #A3DC00;
+    border-radius: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border: none;
+}
+
+
 
 
 .navcontainer ul li {
