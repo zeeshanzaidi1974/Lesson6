@@ -24,7 +24,7 @@
     font-family: 'Ramaraja', serif;
     font-style: normal;
     font-weight: normal;
-    font-size: 72px;
+    font-size: 60px;
     line-height: 76px;
     /* or 106% */
     letter-spacing: 0.02em;
@@ -102,7 +102,8 @@
 .img {
     max-width: 250px;
     width: 50%;
-    margin-left: 180px;
+    margin-top: 20px;
+    margin-left: 250px;
 }
 
 .section {
